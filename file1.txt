@@ -1,0 +1,16 @@
+total 88
+drwxr-xr-x  15 denisebby  staff   480 Jan  7 14:17 .
+drwx------+ 20 denisebby  staff   640 Jan  7 12:02 ..
+drwxr-xr-x  12 denisebby  staff   384 Jan  7 12:38 .git
+-rw-r--r--   1 denisebby  staff  6002 Jan  7 12:02 .gitignore
+-rw-r--r--   1 denisebby  staff  1067 Jan  7 12:02 LICENSE
+-rw-r--r--   1 denisebby  staff   171 Jan  7 12:03 README.md
+-rw-r--r--   1 denisebby  staff   106 Jan  7 14:12 comments.sh
+-rwxr-xr-x   1 denisebby  staff   346 Jan  7 13:56 conditional.sh
+-rw-r--r--   1 denisebby  staff    16 Jan  7 14:09 doc.txt
+-rw-r--r--   1 denisebby  staff     0 Jan  7 14:19 file1.txt
+-rw-r--r--   1 denisebby  staff     0 Jan  7 14:19 file2.txt
+-rwxr-xr-x   1 denisebby  staff   184 Jan  7 13:54 for.sh
+-rwxr-xr-x   1 denisebby  staff   206 Jan  7 14:11 inputs.sh
+-rwxr-xr-x   1 denisebby  staff   107 Jan  7 14:19 output.sh
+-rwxr-xr-x   1 denisebby  staff   101 Jan  7 13:33 while.sh

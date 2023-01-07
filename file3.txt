@@ -1,0 +1,1 @@
+./output.sh: line 6: la: command not found
